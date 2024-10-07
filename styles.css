@@ -1,0 +1,22 @@
+
+#id1{
+    color:aqua;
+    background-color: blue;
+}
+.heading{
+    color:red;
+}
+#id4{
+    color:brown;
+    background-color: green;
+}
+#id3{
+    text-align: center;
+}
+#id5{
+    text-decoration-line: overline underline;
+    text-decoration-style: dotted;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
